@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodRSS</string>
+    <string name="title_activity_show_recipe">ShowRecipe</string>
+</resources>

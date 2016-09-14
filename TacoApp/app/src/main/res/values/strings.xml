@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taco Pronto</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_customer_info">customerInfo</string>
+    <string name="title_activity_thank_you">ThankYou</string>
+</resources>
